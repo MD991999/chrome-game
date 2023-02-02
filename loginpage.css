@@ -1,0 +1,34 @@
+/* 
+.second-div{
+    width:50%;
+
+}
+.row{
+    /* background: url(image/background.jpg); */
+/* width:100%;
+height:100vh;
+background-size: cover;
+} */ */
+.nointernet{
+    mix-blend-mode: multiply;
+}
+.dinocartoonimage{
+    width:70px;
+    mix-blend-mode: multiply;
+}
+.text1{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(60, 94, 27);
+    margin-top: 0;
+}
+.text2{
+color: brown;
+font-weight: 600;
+font-size: 20px;
+}
+.text3{
+    color: blueviolet;
+    font-size: 20px;
+
+}
